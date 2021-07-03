@@ -41,4 +41,5 @@ https://chrome.google.com/webstore/detail/hide-my-ip/albbiglcfndaaphglmeaejkhepc
 
 firefox
 
-https://addons.mozilla.org/en-US/firefox/addon/hide-my-ip-vpn/‌
+https://addons.mozilla.org/en-US/firefox/addon/hide-my-ip-vpn/
+# ادامه پست در چنل تلگرامی ما
